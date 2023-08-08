@@ -5,7 +5,7 @@
     "version": "0.1.0",
     "compatibility": {
       "minimum": "10",
-      "verified": "11.305"
+      "verified": "11.307"
     },
     "packs": [
       {
@@ -21,7 +21,7 @@
           "id": "mosh",
           "type": "system",
           "manifest": "https://raw.githubusercontent.com/Futil/foundry-mothership/master/system.json",
-          "compatibility": { "verified": "0.3.9" }
+          "compatibility": { "verified": "0.3.92" }
         }
       ]
     },
