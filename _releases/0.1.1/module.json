@@ -1,0 +1,34 @@
+{
+    "id": "fvtt_mosh_1e_terminal",
+    "title": "Mothership 1e Compendium - TERMINAL",
+    "description": "A compendium covering content not in the official books",
+    "version": "0.1.1",
+    "compatibility": {
+      "minimum": "11.308",
+      "verified": "11.308"
+    },
+    "packs": [
+      {
+        "label": "Pet Skills",
+        "type": "Item",
+        "name": "items_pet_skills",
+        "path": "packs/items_pet_skills.db"
+      }
+    ],
+    "relationships": {
+      "systems": [
+        {
+          "id": "mosh",
+          "type": "system",
+          "manifest": "https://raw.githubusercontent.com/Futil/foundry-mothership/master/system.json",
+          "compatibility": {
+            "minimum": "0.3.92",
+            "verified": "0.3.92"
+          }
+        }
+      ]
+    },
+    "url": "https://github.com/hollowphoton/fvtt_mosh_1e_terminal",
+    "download": "https://github.com/hollowphoton/fvtt_mosh_1e_terminal/releases/download/0.1.1/fvtt_mosh_1e_terminal.zip",
+    "manifest": "https://github.com/hollowphoton/fvtt_mosh_1e_terminal/releases/download/0.1.1/module.json"
+  }
