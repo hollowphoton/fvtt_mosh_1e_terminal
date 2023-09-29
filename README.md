@@ -1,7 +1,7 @@
 ## Mothership Terminal Compendium | 1e | FoundryVTT
 ![image](https://github.com/hollowphoton/fvtt_mosh_1e_psg/assets/17795348/a1abe5c5-94d0-4d4f-9581-ac2c0fded6b0)
 
-This is a supplemental compendium for the Mothership RPG that defines items outside the scope of the official books. So far, this is all pet related!
+This is a supplemental compendium for the Mothership RPG that I use in my personal game. It defines items outside the scope of the official books. So far, this is all pet related!
 
 #### Features
 - 6 Pet Skills
