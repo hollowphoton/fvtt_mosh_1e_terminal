@@ -10,7 +10,7 @@ This is a supplemental compendium for the Mothership RPG that I use in my person
 #### Installation
  1. Load up Foundry VTT and go to the Add-On Modules tab
  2. Click Install Module
- 3. Paste this URL into the Manifest URL field: https://github.com/hollowphoton/fvtt_mosh_1e_terminal/releases/latest/download/module.json
+ 3. Paste this URL into the Manifest URL field: https://github.com/hollowphoton/fvtt_mosh_1e_terminal/releases/download/0.1.3/module.json
  4. Hit Install
  5. In a world that uses v0.4.0 (or later) of the unofficial MoSh system, go to Settings
  6. Click on Manage Modules
